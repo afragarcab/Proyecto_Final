@@ -1,2 +1,3 @@
 # Proyecto_Final
-Proyecto final de grado superior servidor plex con docker
+Repositorio para el proyecto final de grado superior: 
+Es un servidor plex con docker que incluye a parte un frontend donde puedes seleccionar una película.
